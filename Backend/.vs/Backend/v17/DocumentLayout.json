@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\tasks\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\tasks\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\tasks\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\tasks\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\data\\backenduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\data\\backenduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\data\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\areas\\identity\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\areas\\identity\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\models\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\models\\tasksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\models\\tasksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|f:\\programs and formulas\\.netprojects\\todo\\backend\\backend\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C963EA-CBAD-4623-8DE1-87E4ACA2BE47}|Backend\\Backend.csproj|solutionrelative:backend\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Habiba Asif\\AppData\\Local\\Temp\\xcdasd2c..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Habiba Asif\\AppData\\Local\\Temp\\ox5trhkg..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T08:36:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T10:47:59.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T10:45:12.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackendUser.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\BackendUser.cs",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Data\\BackendUser.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\BackendUser.cs",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Data\\BackendUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:23:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\ProfileViewModel.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "Backend\\Models\\ProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:40:09.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TasksViewModel.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\TasksViewModel.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\TasksViewModel.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\TasksViewModel.cs",
+              "RelativeToolTip": "Backend\\Models\\TasksViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:08:58.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Profile\\Profile.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Profile\\Profile.cshtml",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAQwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T14:45:46.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\List.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Tasks\\List.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\List.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Tasks\\List.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwE8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T16:28:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\Add.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Tasks\\Add.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Tasks\\Add.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Tasks\\Add.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T17:15:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T10:48:05.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T10:52:01.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Backend\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Backend\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-11T11:05:19.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwGIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T10:25:09.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskList.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\TaskList.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\TaskList.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\TaskList.cs",
+              "RelativeToolTip": "Backend\\Models\\TaskList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:22:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:01:15.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackendContext.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\BackendContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Data\\BackendContext.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\BackendContext.cs",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Data\\BackendContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:28:47.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T06:42:38.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\TasksController.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:32:13.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\TaskContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Areas\\Identity\\Data\\TaskContext.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Areas\\Identity\\Data\\TaskContext.cs",
+              "RelativeToolTip": "Backend\\Areas\\Identity\\Data\\TaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:44:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\ProfileController.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:39:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\RegisterViewModel.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Backend\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:33:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:12:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\LoginViewModel.cs",
+              "ToolTip": "F:\\Programs and formulas\\.NETprojects\\TODO\\Backend\\Backend\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Backend\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:34:25.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SQLQuery8.sql ",
+              "DocumentMoniker": "C:\\Users\\Habiba Asif\\AppData\\Local\\Temp\\xcdasd2c..sql",
+              "ToolTip": "SQLQuery8.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T15:47:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SQLQuery6.sql ",
+              "DocumentMoniker": "C:\\Users\\Habiba Asif\\AppData\\Local\\Temp\\ox5trhkg..sql",
+              "ToolTip": "SQLQuery6.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-10T12:52:49.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
